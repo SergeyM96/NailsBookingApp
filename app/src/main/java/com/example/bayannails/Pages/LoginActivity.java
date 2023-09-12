@@ -26,9 +26,9 @@ public class LoginActivity extends AppCompatActivity {
     private DatabaseReference userRef;
     private SharedPreferences sharedPreferences;
 
-    // Create a final admin user with fixed name and password
 
-    User adminUser = new User("Sergey","Morozov","Globalvpsm@gmail.com","","0535216838","srg123",null);
+    //!! For logging as a user please input in the username: TestUser  pass: 1234  !!
+    //!! For logging as an admin please input username: sergey  pass: moroz
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,8 +58,8 @@ public class LoginActivity extends AppCompatActivity {
                 editor.putString("moroz", "moroz"); // Set the password value for the "moroz" key
                 editor.apply();
 
-                // Check if the user is admin
-                if (username.equals("srg123") && password.equals("0535216838")) {
+
+                if (username.equals("abdallah") && password.equals("0535216838")) {
                     // User is admin, proceed to Admin_Activity
                     Intent intent = new Intent(LoginActivity.this, Admin_Activity.class);
                     intent.putExtra("userName", username); // Pass the user name as an extra
