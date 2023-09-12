@@ -41,7 +41,7 @@ import java.util.List;
 
 
 public class MainPage extends AppCompatActivity {
-    String myNumber = "0523239955";
+    String myNumber = "0535216838";
     List<Order> orderList = new ArrayList<>();
     private OrderService orderService;
     @Override

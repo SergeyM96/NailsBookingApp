@@ -28,7 +28,7 @@ public class LoginActivity extends AppCompatActivity {
 
     // Create a final admin user with fixed name and password
 
-    User adminUser = new User("Abdallah","Massri","a.v.e@live.com","","0523239955","abd123",null);
+    User adminUser = new User("Sergey","Morozov","Globalvpsm@gmail.com","","0535216838","srg123",null);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -59,7 +59,7 @@ public class LoginActivity extends AppCompatActivity {
                 editor.apply();
 
                 // Check if the user is admin
-                if (username.equals("abd123") && password.equals("0523239955")) {
+                if (username.equals("srg123") && password.equals("0535216838")) {
                     // User is admin, proceed to Admin_Activity
                     Intent intent = new Intent(LoginActivity.this, Admin_Activity.class);
                     intent.putExtra("userName", username); // Pass the user name as an extra
