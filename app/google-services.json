@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "618125257723",
+    "firebase_url": "https://bayannails-default-rtdb.firebaseio.com",
+    "project_id": "bayannails",
+    "storage_bucket": "bayannails.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618125257723:android:20820741662fd5fe76f95e",
+        "android_client_info": {
+          "package_name": "com.example.bayannails"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE74tukLRq8jVJKzGj24-f3dyIEIovaBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618125257723:android:7be0907fbcc7355d76f95e",
+        "android_client_info": {
+          "package_name": "com.example.bayannails.R"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE74tukLRq8jVJKzGj24-f3dyIEIovaBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
