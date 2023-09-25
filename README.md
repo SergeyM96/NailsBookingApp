@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app_logo.png" alt="BayanNails Logo" width="200" height="200">
+  <img src="BayanNails logo.jpg" alt="BayanNails Logo" width="200" height="200">
 </div>
 
 # BayanNails Booking App 🌟
