@@ -1,69 +1,82 @@
-BayanNails Booking App 🌟
-BayanNails Logo <!--![BayanNails logo](https://github.com/SergeyM96/NailsBookingApp/assets/108286222/63ee4b41-6253-4879-87d9-802d9d231cbb) -->
+<div align="center">
+  <img src="app_logo.png" alt="BayanNails Logo" width="200" height="200">
+</div>
 
-Welcome to the BayanNails Booking App, a powerful Android application designed to streamline appointment bookings for nail salons and similar service-based businesses.
- Empower your customers with quick and convenient appointment scheduling while providing salon owners with efficient queue management tools.
+# BayanNails Booking App 🌟
 
-Key Features
-✅ Effortless Booking: Seamlessly book appointments for nail salon services.
+Welcome to the **BayanNails Booking App**, your gateway to a seamless appointment booking experience tailored for nail salons and service-based businesses. This Android application empowers customers with quick and convenient appointment scheduling, while salon owners benefit from efficient queue management tools.
 
-📅 Automatic Queue Management: Efficiently manage customer queues with an automated system.
+## Key Features
 
-🗺️ Navigation Integration: Integrated navigation to guide customers to the salon.
+✅ **Effortless Booking**: Seamlessly book appointments for a wide range of nail salon services.
 
-📱 Fast Communication: Enable direct communication with the salon via WhatsApp or phone call.
+📅 **Automatic Queue Management**: Efficiently manage customer queues with a smart and automated system.
 
-📸 Visual Gallery: Showcase salon services and offerings through image galleries.
+🗺️ **Navigation Integration**: Integrated navigation guides customers directly to your salon's doorstep.
 
-Authors
-👨‍💻 Sergey Morozov
-👨‍💻 Abdallah Massri
+📱 **Instant Communication**: Enable direct and swift communication with the salon via WhatsApp or phone calls.
 
-Getting Started
-Prerequisites
-Android Studio: Ensure you have Android Studio installed on your development machine.
+📸 **Visual Gallery**: Showcase your salon's services and offerings with eye-catching image galleries.
 
-Installation:
-1.Clone the Repository:
-  git clone https://github.com/your-username/bayannails-booking-app.git
-2.Open the project in Android Studio.
-3.Build and run the app on your Android device or emulator.
+## Authors
 
+👨‍💻 **Sergey Morozov**
+👨‍💻 **Abdallah Massri**
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following prerequisite installed:
+
+- **Android Studio**: Android Studio is required to build and run the application.
+
+### Installation
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/your-username/bayannails-booking-app.git
+
+Open the Project
+----------------
+
+1. **Open the Project**:
+   Open the project in Android Studio.
+
+2. **Build and Run**:
+   Build and run the app on your Android device or emulator.
 
 Usage
-User Login:
+-----
+
+**User Login**:
+
 Launch the app and log in as a customer or administrator.
-1.to log in as user-
-username: TestUser
-password: 0000
-2.to log-in as admin-
-username: sergey
-password: moroz 
 
-Customer Features:
-Book appointments for nail salon services.
-View and manage your current appointments.
-Communicate with the salon via WhatsApp or phone call.
+- To log in as a user:
+  - **Username**: TestUser
+  - **Password**: 0000
 
-Administrator Features:
-Manage appointments efficiently.
-Access additional salon management tools.
+- To log in as an admin:
+  - **Username**: sergey
+  - **Password**: moroz
+
+**Customer Features**:
+
+- Book appointments for a variety of nail salon services.
+- View and manage your current appointments.
+- Communicate with the salon effortlessly through WhatsApp or phone calls.
+
+**Administrator Features**:
+
+- Efficiently manage appointments and customer queues.
+- Access additional salon management tools.
 
 Contributing
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+------------
 
-1.Fork the project.
-
-2.Create your feature branch:
-git checkout -b feature/YourFeatureName
-
-3.Commit your changes:
-git commit -m 'Add some amazing feature'
-
-4.Push to the branch:
-git push origin feature/YourFeatureName
-
-5.Submit a pull request.
+We welcome contributions! If you'd like to contribute to this project.
 
 
 
