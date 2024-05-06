@@ -6,6 +6,11 @@
 
 Welcome to the **BayanNails Booking App**, your gateway to a seamless appointment booking experience tailored for nail salons and service-based businesses. This Android application empowers customers with quick and convenient appointment scheduling, while salon owners benefit from efficient queue management tools.
 
+<!-- DOC -->
+<h2 align="center"> DOC </h2>
+<p align="center">A <strong>developer's guidebook</strong> file provided in the files section. It contains detailed information about the app, including its usage and diagrams.
+</p>
+
 ## Key Features
 
 ✅ **Effortless Booking**: Seamlessly book appointments for a wide range of nail salon services.
