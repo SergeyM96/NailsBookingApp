@@ -59,11 +59,8 @@ Usage
 
 Launch the app and log in as a customer or administrator.
 
-- To log in as a user:
-  - **Username**: TestUser
-  - **Password**: 0000
 
-- To log in as an admin:
+- To log in:
   - **Username**: sergey
   - **Password**: moroz
 
